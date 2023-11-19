@@ -8,7 +8,9 @@
 
 ## 运行
 `hexo-butterfly-recommend` 还未上线，安装前请在 `package.json` 的依赖里删除它
+
 ```shell
+npm i
 ```
 
 ## hexo-theme-butterfly 升级
