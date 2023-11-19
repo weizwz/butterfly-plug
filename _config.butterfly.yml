@@ -11,6 +11,9 @@ author: John Doe
 language: en
 timezone: ''
 
+# 顶部图
+disable_top_img: true
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
