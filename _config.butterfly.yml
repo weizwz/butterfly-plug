@@ -106,3 +106,13 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+recommend:
+  enable: true
+  priority: 5 #过滤器优先权
+  enable_page: / # 应用页面
+  layout: # 挂载容器类型
+      type: id
+      name: content-inner
+      index: 1
