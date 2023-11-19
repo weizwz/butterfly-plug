@@ -116,3 +116,5 @@ recommend:
       type: id
       name: content-inner
       index: 1
+  banner: # banner
+      title: 
