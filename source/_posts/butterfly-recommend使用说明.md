@@ -1,10 +1,9 @@
 ---
 title: butterfly_recommend 使用说明
 cover: /img/cover1.png
-recommend_index: 2
 date: 2023-11-20 18:26:13
 tags: hexo hexo-butterfly-plug
-categories: 精选
+categories: 热门
 ---
 
 ## 说明
