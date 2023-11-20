@@ -27,21 +27,47 @@ recommend:
     index: 1
   banner: #banner
     title: 
-      - '无限活力'
-      - '与热爱生活'
+      - '无限热爱'
+      - '技术与生活'
       - 'WEIZWZ.COM'
     skill:
-      -
-        name: 'Html'
+      - name: 'Html'
         icon: 'fa-brands fa-html5'
         color: '#fff'
         background: '#e9572b'
+      - name: 'Css'
+        icon: 'fa-brands fa-css3-alt'
+        color: '#fff'
+        background: '#2c51db'
+      - name: 'Vue'
+        icon: 'fa-brands fa-vuejs'
+        color: '#fff'
+        background: '#42b883'
+      - name: 'Node'
+        icon: 'fa-brands fa-node'
+        color: '#7dbd05'
+        background: '#37322e'
+      - name: 'Git'
+        icon: 'fa-brands fa-git-alt'
+        color: '#fff'
+        background: '#df5b40'
   category:
-    - 
-      name: '必看精选'
+    - name: '必看精选'
       path: '/categories/精选/'
       icon: 'fa-solid fa-star'
       color: 
         - '#358bff'
         - '#15c6ff'
+    - name: '热门文章'
+      path: '/categories/热门/'
+      icon: 'fa-solid fa-fire'
+      color: 
+        - '#f65'
+        - '#ffbf37'
+    - name: '优质资源'
+      path: '/categories/资源/'
+      icon: 'fa-solid fa-gem'
+      color: 
+        - '#18e7ae'
+        - '#1eebeb'
 ```
