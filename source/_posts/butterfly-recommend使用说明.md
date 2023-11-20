@@ -1,6 +1,6 @@
 ---
 title: butterfly_recommend 使用说明
-cover: /img/cover1.png
+cover: /img/cover2.png
 date: 2023-11-20 18:26:13
 tags: hexo hexo-butterfly-plug
 categories: 热门
