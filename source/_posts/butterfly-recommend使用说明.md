@@ -30,7 +30,7 @@ recommend:
       - '无限热爱'
       - '技术与生活'
       - 'WEIZWZ.COM'
-    skill:
+    skill: #技能树  fontawesome图标 https://fontawesome.com/search?o=r&m=free&f=brands
       - name: 'Html'
         icon: 'fa-brands fa-html5'
         color: '#fff'
@@ -39,10 +39,26 @@ recommend:
         icon: 'fa-brands fa-css3-alt'
         color: '#fff'
         background: '#2c51db'
+      - name: 'Sass'
+        icon: 'fa-brands fa-sass'
+        color: '#fff'
+        background: '#ca6496'
+      - name: 'Bootstrap'
+        icon: 'fa-brands fa-bootstrap'
+        color: '#fff'
+        background: '#563e7c'
+      - name: 'Js'
+        icon: 'fa-brands fa-js'
+        color: '#fff'
+        background: '#f7cb4f'
       - name: 'Vue'
         icon: 'fa-brands fa-vuejs'
         color: '#fff'
         background: '#42b883'
+      - name: 'Angular'
+        icon: 'fa-brands fa-angular'
+        color: '#fff'
+        background: '#bd0102'
       - name: 'Node'
         icon: 'fa-brands fa-node'
         color: '#7dbd05'
@@ -54,8 +70,8 @@ recommend:
   category:
     - name: '必看精选'
       path: '/categories/精选/'
-      icon: 'fa-solid fa-star'
-      color: 
+      icon: 'fa-solid fa-star' #fontawesome图标
+      color: #渐变色
         - '#358bff'
         - '#15c6ff'
     - name: '热门文章'
