@@ -1,5 +1,6 @@
 ---
 title: butterfly_recommend 使用说明
+cover: /img/cover1.png
 recommend_index: 2
 date: 2023-11-20 18:26:13
 tags: hexo hexo-butterfly-plug
@@ -28,7 +29,7 @@ recommend:
   banner: #banner
     title: 
       - '无限热爱'
-      - '技术与生活'
+      - '生活与技术'
       - 'WEIZWZ.COM'
     skill: #技能树  fontawesome图标 https://fontawesome.com/search?o=r&m=free&f=brands
       - name: 'Html'
