@@ -27,4 +27,21 @@ recommend:
     index: 1
   banner: #banner
     title: 
+      - '无限活力'
+      - '与热爱生活'
+      - 'WEIZWZ.COM'
+    skill:
+      -
+        name: 'Html'
+        icon: 'fa-brands fa-html5'
+        color: '#fff'
+        background: '#e9572b'
+  category:
+    - 
+      name: '必看精选'
+      path: '/categories/精选/'
+      icon: 'fa-solid fa-star'
+      color: 
+        - '#358bff'
+        - '#15c6ff'
 ```
