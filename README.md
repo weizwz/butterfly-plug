@@ -2,7 +2,8 @@
 `hexo-theme-butterfly` 扩展插件调试模板，版本号随 `hexo-theme-butterfly` 更新
 
 ## 效果
-![banner](/source/img/cover1.png "banner")
+![banner](/source/img/demo1.png "banner")
+![banner](/source/img/demo2.png "banner")
 
 ## 版本
 `hexo` 7.0.0 
