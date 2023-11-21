@@ -995,7 +995,7 @@ CDN:
 recommend:
   enable: true #开关
   priority: 5 #过滤器优先权
-  enable_page: all #应用页面 /是首页，all所有界面，/categories分类页等
+  enable_page: / #应用页面 /是首页，all所有界面，/categories分类页等
   exclude: #屏蔽页面，可以多个，用,号分隔。仅当enable_page为'all'时生效。
   layout: #挂载容器类型
     type: id
