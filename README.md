@@ -5,13 +5,13 @@
 `1920*1080`
 ![banner](/source/img/demo1.png "banner") 
 
-`width < 1200`
+`width <= 1200`
 ![banner](/source/img/demo2.png "banner")
 
 ## 版本
-`hexo` 7.0.0 
-`hexo-theme-butterfly` 4.10.0 
-`hexo-butterfly-recommend` 1.0.0 
++ `hexo` 7.0.0 
++ `hexo-theme-butterfly` 4.10.0 
++ `hexo-butterfly-recommend` 1.0.0 
 
 ## 安装
 `hexo-butterfly-recommend` 还未上线，安装前请在 `package.json` 的依赖里删除它。
