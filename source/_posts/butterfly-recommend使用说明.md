@@ -94,4 +94,8 @@ recommend:
     paths: #次级推荐页
       - '2023/11/20/butterfly-recommend使用说明/'
       - '2023/11/19/test-post/'
+      - '2023/11/21/Hexo-是什么/'
+      - '2023/11/19/hello-world/'
+      - '2023/11/21/如何开发hexo扩展插件/'
+      - '2023/11/21/Copilot-with-Bing-Chat/'
 ```
