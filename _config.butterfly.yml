@@ -1065,7 +1065,7 @@ recommend:
   post: 
     cover: #默认推荐页
       path: '2023/11/20/butterfly-recommend使用说明/'
-      title: 顶部扩展 butterfly-recommend 正式发布了
+      title: 主题扩展butterfly-recommend正式发布了
       subTitle: butterfly新扩展
     paths: #次级推荐页
       - '2023/11/20/butterfly-recommend使用说明/'
