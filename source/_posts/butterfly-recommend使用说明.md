@@ -89,8 +89,9 @@ recommend:
   post: 
     cover: #默认推荐页
       path: '2023/11/20/butterfly-recommend使用说明/'
-      title: 顶部扩展 butterfly-recommend 正式发布了
-      subTitle: butterfly新扩展
+      img: '/img/cover_default.png'
+      title: 'butterfly-recommend 正式发布了'
+      subTitle: '首屏新组件'
     paths: #次级推荐页
       - '2023/11/20/butterfly-recommend使用说明/'
       - '2023/11/19/test-post/'
