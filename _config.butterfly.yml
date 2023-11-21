@@ -231,7 +231,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/weizwz
   card_announcement:
     enable: true
     content: This is my Blog
@@ -1066,7 +1066,7 @@ recommend:
     cover: #默认推荐页
       path: '2023/11/20/butterfly-recommend使用说明/'
       title: butterfly-recommend 正式发布了
-      subTitle: 新扩展
+      subTitle: 首屏新组件
     paths: #次级推荐页
       - '2023/11/20/butterfly-recommend使用说明/'
       - '2023/11/19/test-post/'

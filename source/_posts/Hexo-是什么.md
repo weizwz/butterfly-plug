@@ -2,9 +2,11 @@
 title: Hexo 是什么
 top_img: /img/cover4.png
 date: 2023-11-21 16:50:50
-tags:
+tags: AI
 categories: 精选
 ---
+> 以下文章由 `Copilot` 生成，仅作测试使用，内容真实性请自行考究。
+
 Hexo 是一个快速、简洁且高效的博客框架，基于 Node.js 开发。Hexo 使用 Markdown（或其他渲染引引擎）解析文章，并生成静态页面，非常便于静态部署和加载，许多人把页面存在 GitHub Pages 或 OSS 上，连服务器都省了。
 
 ## Hexo 的优点
