@@ -2,13 +2,13 @@
 `hexo-theme-butterfly` 扩展插件调试模板，版本号随 `hexo-theme-butterfly` 更新
 
 ## 效果
-`1920*1080`
+`1920*1080` 
 ![banner](/source/img/demo1.png "banner") 
 
-`width <= 1200`
+`width <= 1200` 
 ![banner](/source/img/demo2.png "banner") 
 
-`移动端`
+`移动端` 
 ![banner](/source/img/demo3.png "banner") 
 
 ## 版本
@@ -17,7 +17,7 @@
 + `hexo-butterfly-recommend` 1.0.0 
 
 ## 安装
-`hexo-butterfly-recommend` 还未上线，安装前请在 `package.json` 的依赖里删除它。
+如果 `hexo-butterfly-recommend` 还未上线，安装前请在 `package.json` 的依赖里删除它。
 
 ```shell
 npm i
