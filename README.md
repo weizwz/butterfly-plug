@@ -1,7 +1,7 @@
 # butterfly-plug
 `hexo-theme-butterfly` 扩展插件调试模板，版本号随 `hexo-theme-butterfly` 更新。 
 
-当前调试插件 (hexo-butterfly-recommend)[https://github.com/weizwz/hexo-butterfly-recommend]，其他插件调试方法类似。
+当前调试插件 [hexo-butterfly-recommend](https://github.com/weizwz/hexo-butterfly-recommend)，其他插件调试方法类似。
 
 ## `hexo-butterfly-recommend` 效果
 `1920*1080` 
