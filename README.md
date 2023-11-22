@@ -6,7 +6,10 @@
 ![banner](/source/img/demo1.png "banner") 
 
 `width <= 1200`
-![banner](/source/img/demo2.png "banner")
+![banner](/source/img/demo2.png "banner") 
+
+`移动端`
+![banner](/source/img/demo3.png "banner") 
 
 ## 版本
 + `hexo` 7.0.0 

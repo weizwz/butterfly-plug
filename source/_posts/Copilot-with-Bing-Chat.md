@@ -3,7 +3,7 @@ title: Copilot with Bing Chat
 cover: /img/cover6.png
 date: 2023-11-21 19:23:57
 tags:
-categories:
+categories: 资源
 ---
 > 以下文章由 `Copilot` 生成，仅作测试使用，内容真实性请自行考究。
 
