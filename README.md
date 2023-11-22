@@ -14,7 +14,7 @@
 
 `移动端` 
 
-![banner](/source/img/demo3.png "banner"){:width="430px"} 
+![banner](/source/img/demo3.png "banner"){: width="430px"} 
 
 ## 版本
 + `hexo` 7.0.0 
