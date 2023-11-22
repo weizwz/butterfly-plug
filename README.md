@@ -1,15 +1,20 @@
 # butterfly-plug
-`hexo-theme-butterfly` 扩展插件调试模板，版本号随 `hexo-theme-butterfly` 更新
+`hexo-theme-butterfly` 扩展插件调试模板，版本号随 `hexo-theme-butterfly` 更新。 
 
-## 效果
+当前调试插件 (hexo-butterfly-recommend)[https://github.com/weizwz/hexo-butterfly-recommend]，其他插件调试方法类似。
+
+## `hexo-butterfly-recommend` 效果
 `1920*1080` 
+
 ![banner](/source/img/demo1.png "banner") 
 
 `width <= 1200` 
+
 ![banner](/source/img/demo2.png "banner") 
 
 `移动端` 
-![banner](/source/img/demo3.png "banner") 
+
+![banner](/source/img/demo3.png "banner"){:width="430px"} 
 
 ## 版本
 + `hexo` 7.0.0 
