@@ -14,7 +14,7 @@
 
 `移动端` 
 
-![banner](/source/img/demo3.png "banner"){: width="430px"} 
+<img src="https://github.com/weizwz/butterfly-plug/blob/main/source/img/demo3.png" width="430" alt="移动端效果"/><br/>
 
 ## 版本
 + `hexo` 7.0.0 
