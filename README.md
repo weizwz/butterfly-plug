@@ -19,16 +19,64 @@
 ## 版本
 + `hexo` 7.0.0 
 + `hexo-theme-butterfly` 4.10.0 
-+ `hexo-butterfly-recommend` 1.0.0 
++ `hexo-butterfly-recommend` 1.0.1 
 
 ## 安装
-如果 `hexo-butterfly-recommend` 还未上线，安装前请在 `package.json` 的依赖里删除它。
 
 ```shell
 npm i
 ```
 
-安装完成后，下载 `https://github.com/weizwz/hexo-butterfly-recommend`，解压后放至 `node_modules` 目录下，在 `package.json` 中引入
+## 引入本地插件
+
+1. `npm init` 初始化本地插件（插件项目，非此项目，比如 `hexo-butterfly-recommend`）
+
+2. 修改 `package.json`，示例
+```json
+{
+  "name": "hexo-butterfly-recommend",
+  "version": "1.0.0",
+  "description": "hexo-theme-butterfly主题的扩展，首页推荐",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "files": [
+    "lib/",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weizwz/hexo-butterfly-recommend.git"
+  },
+  "keywords": [
+    "blog",
+    "hexo",
+    "butterfly",
+    "theme-butterfly",
+    "hexo-theme-butterfly",
+    "recommend",
+    "butterfly-recommend",
+    "hexo-butterfly-recommend",
+    "plugin"
+  ],
+  "dependencies": {
+    "hexo-renderer-pug": "^3.0.0"
+  },
+  "author": "weizwz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weizwz/hexo-butterfly-recommend/issues"
+  },
+  "homepage": "https://github.com/weizwz/hexo-butterfly-recommend#readme"
+}
+```
+3. 将插件目录拷贝至此项目的 `node_modules` 目录下
+
+4. 在此项目 `package.json` 中引入当前项目名称
 
 ```json
 "dependencies": {
@@ -43,6 +91,7 @@ hexo server
 ```
 
 ## hexo-theme-butterfly 升级
+
 ```shell
 npm update hexo-theme-butterfly
 ```
