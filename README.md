@@ -18,7 +18,7 @@
 
 ## 版本
 + `hexo` 7.0.0 
-+ `hexo-theme-butterfly` 4.10.0 
++ `hexo-theme-butterfly` 4.11.0 
 + `hexo-butterfly-recommend` 1.0.1 
 
 ## 安装
