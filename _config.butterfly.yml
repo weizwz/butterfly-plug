@@ -1065,7 +1065,7 @@ recommend:
   post: 
     cover: #默认推荐页，不填的话默认取最新一篇文章
       path: '2023/11/20/butterfly-recommend使用说明' #推荐界面访问路径
-      img: '/img/cover_default.png' #可为空，默认取cover，没有的话在取 top_img。最前面的/不可省略
+      img: '/img/cover_0.png' #可为空，默认取cover，没有的话在取 top_img。最前面的/不可省略
       title: 'butterfly-recommend 正式发布了' #推荐标题，不填的话取文章标题
       subTitle: '首屏新组件' #推荐次标题，不填的话取文章时间
     paths: #次级推荐页 填博文访问路径
