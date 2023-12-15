@@ -20,6 +20,10 @@
 
 <img src="https://github.com/weizwz/butterfly-plug/blob/main/source/img/home2.png" width="430" alt="移动端效果"/><br/>
 
+`动图展示`
+
+![banner](/source/img/navctrl.gif "banner") 
+
 ## 版本
 + `hexo` 7.0.0 
 + `hexo-theme-butterfly` 4.11.0 
