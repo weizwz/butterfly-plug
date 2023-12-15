@@ -1,9 +1,13 @@
 # butterfly-plug
 `hexo-theme-butterfly` 扩展插件调试模板，版本号随 `hexo-theme-butterfly` 更新。 
 
-当前调试插件 [hexo-butterfly-recommend](https://github.com/weizwz/hexo-butterfly-recommend)，其他插件调试方法类似。
+当前调试插件 
++ [hexo-butterfly-recommend](https://github.com/weizwz/hexo-butterfly-recommend)
++ [hexo-butterfly-navctrl](https://github.com/weizwz/hexo-butterfly-navctrl)
 
-## `hexo-butterfly-recommend` 效果
+其他插件调试方法类似。
+
+## `hexo-butterfly-recommend` 和 `hexo-butterfly-navctrl` 效果
 `1920*1080` 
 
 ![banner](/source/img/demo1.png "banner") 
@@ -19,7 +23,8 @@
 ## 版本
 + `hexo` 7.0.0 
 + `hexo-theme-butterfly` 4.11.0 
-+ `hexo-butterfly-recommend` 1.0.1 
++ `hexo-butterfly-recommend` 1.0.2
++ `hexo-butterfly-navctrl` 1.0.0
 
 ## 安装
 
@@ -80,7 +85,8 @@ npm i
 
 ```json
 "dependencies": {
-  "hexo-butterfly-recommend": "^1.0.0",
+  "hexo-butterfly-recommend": "^1.0.2",
+  "hexo-butterfly-navctrl": "^1.0.0",
 }
 ```
 
