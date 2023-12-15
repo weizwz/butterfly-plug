@@ -1075,7 +1075,7 @@ recommend:
       - '2023/11/19/hello-world'
       - '2023/11/21/如何开发hexo扩展插件'
       - '2023/11/21/Copilot-with-Bing-Chat'
-navCtrl:
+navctrl:
   enable: true #开关
   priority: 10 #过滤器优先权 默认10，值越低过滤器越早执行
   layout: #挂载容器类型
