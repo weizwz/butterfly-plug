@@ -10,15 +10,15 @@
 ## `hexo-butterfly-recommend` 和 `hexo-butterfly-navctrl` 效果
 `1920*1080` 
 
-![banner](/source/img/demo1.png "banner") 
+![banner](/source/img/home.png "banner") 
 
 `width <= 1200` 
 
-![banner](/source/img/demo2.png "banner") 
+![banner](/source/img/home1.png "banner") 
 
 `移动端` 
 
-<img src="https://github.com/weizwz/butterfly-plug/blob/main/source/img/demo3.png" width="430" alt="移动端效果"/><br/>
+<img src="https://github.com/weizwz/butterfly-plug/blob/main/source/img/home2.png" width="430" alt="移动端效果"/><br/>
 
 ## 版本
 + `hexo` 7.0.0 
