@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "hexo": "^7.0.0",
-    "hexo-butterfly-navctrl": "^1.0.1",
+    "hexo-butterfly-navctrl": "^1.0.2",
     "hexo-butterfly-recommend": "^1.0.3",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",

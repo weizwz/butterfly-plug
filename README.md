@@ -27,8 +27,8 @@
 ## 版本
 + `hexo` 7.0.0 
 + `hexo-theme-butterfly` 4.11.0 
-+ `hexo-butterfly-recommend` 1.0.2
-+ `hexo-butterfly-navctrl` 1.0.0
++ `hexo-butterfly-recommend` 1.0.3
++ `hexo-butterfly-navctrl` 1.0.2
 
 ## 安装
 
@@ -89,8 +89,8 @@ npm i
 
 ```json
 "dependencies": {
-  "hexo-butterfly-recommend": "^1.0.2",
-  "hexo-butterfly-navctrl": "^1.0.0",
+  "hexo-butterfly-recommend": "^1.0.3",
+  "hexo-butterfly-navctrl": "^1.0.2",
 }
 ```
 
