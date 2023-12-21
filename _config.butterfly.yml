@@ -9,8 +9,8 @@ nav:
 
 # Menu 目錄
 menu:
-  Home: / || fas fa-home
-  Archives: /archives/ || fas fa-archive
+  首页: / || fas fa-home
+  文章: /archives/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
   # Categories: /categories/ || fas fa-folder-open
   # List||fas fa-list:
@@ -1051,8 +1051,8 @@ recommend:
       path: 'categories/精选'
       icon: 'fa-solid fa-star' #fontawesome图标
       color: #渐变色
-        - '#358bff'
-        - '#15c6ff'
+        - '#5166f0'
+        - '#8c79ff'
     - name: '热门文章'
       path: 'categories/热门'
       icon: 'fa-solid fa-fire'
