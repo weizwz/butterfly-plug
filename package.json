@@ -13,7 +13,7 @@
     "version": "7.0.0"
   },
   "dependencies": {
-    "hexo": "^7.0.0",
+    "hexo": "^7.1.0",
     "hexo-butterfly-navctrl": "^1.0.3",
     "hexo-butterfly-recommend": "^1.0.3",
     "hexo-generator-archive": "^2.0.0",
