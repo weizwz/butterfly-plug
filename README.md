@@ -7,6 +7,9 @@
 
 其他插件调试方法类似。
 
+## `hexo-butterfly-recommend` 1.1.0版本截图
+![banner](/source/img/home_2024.png "banner") 
+
 ## `hexo-butterfly-recommend` 和 `hexo-butterfly-navctrl` 效果
 `1920*1080` 
 
